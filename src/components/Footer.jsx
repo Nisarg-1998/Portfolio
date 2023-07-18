@@ -3,6 +3,7 @@ import Button from "./Button";
 import { socialMedia, aboutMe } from "../Content";
 import { resumeLink, repoLink } from "../Content";
 import { AiFillGithub } from "react-icons/ai";
+import ProfilePhoto from "../assets/images/Projects/NT1.jpg"
 
 const Footer = () => (
   <footer id="contact" className=" bg-secondaryLinear sm:px-16 px-6">
@@ -48,7 +49,7 @@ const Footer = () => (
 
       <div className="mt-10 md:mt-0">
         <img
-          src="src\assets\images\Projects\NT1.jpg"
+          src={ProfilePhoto}
           alt="Nisarg Thakkar"
           className="w-[185px] h-[190px] border-2 border-dark_primary relative z-[5] rounded-full"
         />
