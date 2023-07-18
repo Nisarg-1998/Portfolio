@@ -1,6 +1,5 @@
 // import images
 import Hero_person from "./assets/images/Hero/main_comp.json";
-import openFoodFacts from './assets/images/OpenSrc/openFoodFacts.png'
 
 export const resumeLink = "https://drive.google.com/file/d/13eoXyM7t8T-fkqDZBgmXRRLgRqgAk-aU/view?usp=sharing"
 export const repoLink = "https://github.com/Nisarg-1998"
