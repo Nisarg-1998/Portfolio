@@ -3,7 +3,6 @@ import Lottie from "react-lottie";
 
 import { content, socialMedia } from "../Content";
 import Button from './Button';
-import { BsArrowBarUp } from 'react-icons/all'
 
 
 const Hero = () => {

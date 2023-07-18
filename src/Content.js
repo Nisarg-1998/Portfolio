@@ -6,42 +6,47 @@ export const repoLink = "https://github.com/Nisarg-1998"
 
 import {
   SiJavascript,
-  SiBootstrap,
   SiReact,
-  SiMaterialui,
   SiTailwindcss,
-  SiGraphql,
   SiPython,
   SiCplusplus,
   SiC,
-  SiJquery,
   SiVisualstudiocode,
   SiGit,
   SiMysql,
-  SiNetlify,
   SiHtml5,
-  SiVite,
   SiCss3,
-  SiMongodb,
-  SiRedux,
-  SiJava,
-  SiDart,
   SiFlutter,
-  SiExpress,
   SiIntellijidea,
-  SiReactivex
+  SiDotnet, 
+  SiScala,
+  SiFlask,
+  SiTensorflow,
+  SiOpencv,
+  SiPytorch,
+  SiSelenium
 } from "react-icons/si";
 
 import {
   AiFillGithub,
-  AiFillHtml5,
   AiFillInstagram,
   AiFillLinkedin,
   AiFillMail,
 } from "react-icons/ai";
 
-import * as ic from 'react-icons/all'
+import {
+  HiDatabase
+} from "react-icons/hi"
 
+import {
+  FaRobot
+} from "react-icons/fa"
+
+import {
+  DiSpark
+} from "react-icons/di"
+
+// import * as ic from 'react-icons/all'
 
 import clothing from "./assets/images/Projects/clothing.jpg";
 import portfolio_logo from "./assets/images/Projects/faviCon.jpg"
@@ -91,7 +96,7 @@ export const content = {
       items: [
         {
           id: "pl-1",
-          icon: ic.SiDotnet,
+          icon: SiDotnet,
           name: ".Net",
         },
         {
@@ -101,7 +106,7 @@ export const content = {
         },
         {
           id: "pl-3",
-          icon: ic.SiScala,
+          icon: SiScala,
           name: "Scala",
         },
         {
@@ -116,7 +121,7 @@ export const content = {
         },
         {
           id: "pl-8",
-          icon: ic.HiDatabase,
+          icon: HiDatabase,
           name: "SQL",
         },
         {
@@ -147,27 +152,27 @@ export const content = {
         },
         {
           id: "f-1",
-          icon: ic.SiFlask,
+          icon: SiFlask,
           name: "Flask",
         },
         {
           id: "f-2",
-          icon: ic.SiTensorflow,
+          icon: SiTensorflow,
           name: "TensorFlow",
         },
         {
           id: "f-3",
-          icon: ic.SiOpencv,
+          icon: SiOpencv,
           name: "OpenCV",
         },
         {
           id: "f-4",
-          icon: ic.SiPytorch,
+          icon: SiPytorch,
           name: "PyTorch",
         },
         {
           id: "f-5",
-          icon: ic.SiSelenium,
+          icon: SiSelenium,
           name: "Selenium",
         },
         {
@@ -182,7 +187,7 @@ export const content = {
       items: [
         {
           id: "f-1",
-          icon: ic.FaRobot,
+          icon: FaRobot,
           name: "RPA",
         },
         {
@@ -208,7 +213,7 @@ export const content = {
         },
         {
           id: "t-6",
-          icon: ic.DiSpark,
+          icon: DiSpark,
           name: "Spark",
         },
         {
@@ -291,12 +296,12 @@ export const projects = [
     stack: [
       {
         id: "icon-1",
-        icon: ic.SiDotnet,
+        icon: SiDotnet,
         name: ".Net"
       },
       {
         id: "icon-2",
-        icon: ic.FaRobot,
+        icon: FaRobot,
         name: "UiPath"
       },
     ],
@@ -332,12 +337,12 @@ export const projects = [
     stack: [
       {
         id: "icon-1",
-        icon: ic.SiDotnet,
+        icon: SiDotnet,
         name: ".Net"
       },
       {
         id: "icon-2",
-        icon: ic.FaRobot,
+        icon: FaRobot,
         name: "UiPath"
       },
 
