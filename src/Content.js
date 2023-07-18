@@ -48,7 +48,7 @@ import {
 
 // import * as ic from 'react-icons/all'
 
-import clothing from "./assets/images/Projects/clothing.jpg";
+import clothing from "./assets/images/Projects/Clothing.jpg";
 import portfolio_logo from "./assets/images/Projects/faviCon.jpg"
 import Notepad from "./assets/images/Projects/Notepad.png";
 import RBC from './assets/images/Projects/RBC.png';
