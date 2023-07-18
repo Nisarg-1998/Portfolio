@@ -276,7 +276,7 @@ export const educationList = [
   {
     id: "education-1",
     icon: GU,
-    title: "Ganpat Universuty, Mehsana, Gujarat, India",
+    title: "Ganpat University, Mehsana, Gujarat, India",
     degree: "Bachelor of Computer Applications",
     duration: "June 2015 - May 2018",
     content1: "Data Engineering",
